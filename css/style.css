@@ -17,7 +17,7 @@ body {
 #login-form {
   position: absolute;
   z-index: 1;
-  top: 50px;
+  top: 100px;
   color: #ffffff;
   font-size: 60px;
 }
@@ -27,7 +27,7 @@ body {
   z-index: 1;
   top: 100px;
   color: #ffffff;
-  font-size: 60px;
+  font-size: 80px;
 }
 
 #clock {
@@ -35,7 +35,7 @@ body {
   z-index: 1;
   top: 250px;
   color: #ffffff;
-  font-size: 60px;
+  font-size: 80px;
 }
 
 #weather {
@@ -52,6 +52,15 @@ body {
   top: 500px;
   color: #ffffff;
   font-size: 50px;
+}
+
+.form {
+  padding-left: 120px;
+  padding-right: 120px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-size: 20px;
+  border-radius: 5px;
 }
 
 #todo-list {
